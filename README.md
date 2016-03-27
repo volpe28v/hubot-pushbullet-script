@@ -8,4 +8,5 @@ hubot で受けた全ての発言を指定した pushbullet クライアント�
 ```
 HUBOT_PUSHBULLET_API_KEY="xxx"
 HUBOT_PUSHBULLET_EMAIL="xxx@gmail.com"
+HUBOT_PUSHBULLET_TITLE="title"
 ```
